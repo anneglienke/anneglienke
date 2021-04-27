@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**anneglienke/anneglienke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anne Glienke and this is my GitHub profile, a place where you'll find a lot of private commits and some unfinished public repos 😄
 
-Here are some ideas to get you started:
+- 🔭  I’m currently working at [A3Data](https://github.com/a3data)
+- 🌱  I’m currently learning about Data Engineering.
+- 📫  How to reach me: anneglienke@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=anneglienke&theme=vue&count_private=true"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneglienke&hide=html&layout=compact&theme=vue&count_private=true" /></td>
+    </tr>   
+</table>
+</center> 
