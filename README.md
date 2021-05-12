@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anne Glienke and this is my GitHub profile, a place where you'll find a lot of private commits and some unfinished public repos 😄
+I'm Anne Glienke and this is my GitHub profile, a place where you'll find some private commits and some unfinished public repos 😄
 
 - 🔭  I’m currently working at [A3Data](https://github.com/a3data)
 - 🌱  I’m currently learning about Data Engineering.
