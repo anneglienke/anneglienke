@@ -4,7 +4,7 @@ I'm Anne Glienke and this is my GitHub profile, a place where you'll find some p
 I do my best to share what I'm learning so you'll find some well-documented useful repos too, don't worry.  
 
 - 🔭  I’m currently working at [A3Data](https://github.com/a3data)
-- 🌱  I’m a Data Analyst, currently learning about Data Engineering.
+- 🌱  I'm a former Data Analyst, currently working with Data Engineering.
 - 📫  How to reach me: anneglienke@gmail.com
 
 <center>
