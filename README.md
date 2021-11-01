@@ -6,6 +6,7 @@ I do my best to share what I'm learning so you'll find some well-documented usef
 - 🔭  I’m currently working at [A3Data](https://github.com/a3data)
 - 🌱  I'm a former Data Analyst, currently working with Data Engineering.
 - 📫  How to reach me: anneglienke@gmail.com
+- 🌎  Berlin, Germany
 
 <center>
 <table>
