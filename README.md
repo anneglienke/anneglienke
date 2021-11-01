@@ -3,10 +3,13 @@
 I'm Anne Glienke and this is my GitHub profile, a place where you'll find some private commits and a lot of unfinished public repos. 😄
 I do my best to share what I'm learning so you'll find some well-documented useful repos too, don't worry.  
 
-- 🏢  I’m currently working at [A3Data](https://github.com/a3data)
-- 💻  I'm a former Data Analyst, currently working with Data Engineering.
+- 💻  Data Engineering, former Data Analyst
+- 🏢  Currently working for [A3Data](https://github.com/a3data)
+- 🌎  Based in Berlin, Germany
 - 📫  How to reach me: anneglienke@gmail.com
-- 🌎  Berlin, Germany
+- 👩‍💻  More about me: 
+        [LinkedIn](https://www.linkedin.com/in/anneglienke/) /
+        [Medium](anneglienke.medium.com)
 
 <center>
 <table>
