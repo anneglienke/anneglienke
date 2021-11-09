@@ -4,7 +4,7 @@ I'm Anne Glienke and this is my GitHub profile, a place where you'll find some p
 I do my best to share what I'm learning so you'll find some well-documented useful repos too, don't worry.  
 
 - 💻  Data Engineering, former Data Analyst
-- 🏢  Currently working for [A3Data](https://github.com/a3data)
+- 🏢  Currently working for [idealo](https://github.com/idealo)
 - 🌎  Based in Berlin, Germany
 - 📫  How to reach me: anneglienke@gmail.com
 - 👩‍💻  More about me: 
