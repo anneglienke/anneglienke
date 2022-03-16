@@ -6,7 +6,6 @@ I do my best to share what I'm learning so you'll find some well-documented usef
 - 💻  Data Engineering, former Data Analyst
 - 🏢  Currently working for [idealo](https://github.com/idealo)
 - 🌎  Based in Berlin, Germany
-- 📫  How to reach me: anneglienke@gmail.com
 - 👩‍💻  More about me: 
         [LinkedIn](https://www.linkedin.com/in/anneglienke/) /
         [Medium](anneglienke.medium.com)
