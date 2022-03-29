@@ -4,7 +4,7 @@ I'm Anne Glienke and this is my GitHub profile, a place where you'll find some p
 I do my best to share what I'm learning so you'll find some well-documented useful repos too, don't worry.  
 
 - 💻  Data Engineering, former Data Analyst
-- 🏢  Currently working for [idealo](https://github.com/idealo)
+- 🏢  Currently working for [nuri](https://nuri.com/)
 - 🌎  Based in Berlin, Germany
 - 👩‍💻  More about me: 
         [LinkedIn](https://www.linkedin.com/in/anneglienke/) /
